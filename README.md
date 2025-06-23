@@ -15,12 +15,12 @@ https://opensource-demo.orangehrmlive.com
 - Pytest
 
 ## Setup Instructions
-1. Clone this repo or copy files to a local directory.
+1. Clone this repo or copy files to a local directory -https://github.com/kreddy-cloud9/orangehrm_login_logout.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
 ## Assumptions
-1. ChromeDriver is managed via Selenium 4.
+1. ChromeDriver is available in the system path.
 2. Internet access is available to access the live demo site.
 3. Basic error handling is implemented for assertion and visibility checks.
