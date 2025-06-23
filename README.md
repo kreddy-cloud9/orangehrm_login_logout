@@ -15,7 +15,7 @@ https://opensource-demo.orangehrmlive.com
 - Pytest
 
 ## Setup Instructions
-1. Clone this repo or copy files to a local directory -https://github.com/kreddy-cloud9/orangehrm_login_logout.git
+1. Clone this repo or copy files to a local directory - https://github.com/kreddy-cloud9/orangehrm_login_logout.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
